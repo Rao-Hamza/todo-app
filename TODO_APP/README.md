@@ -1,3 +1,3 @@
-# myClassApp
+# TodoApp
 
 Class work
