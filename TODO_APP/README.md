@@ -1,0 +1,3 @@
+# myClassApp
+
+Class work
